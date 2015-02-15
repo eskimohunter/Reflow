@@ -1,0 +1,9 @@
+(export (version D)
+  (design
+    (source D:/Electronics/Reflow/Hardware/Reflow.sch)
+    (date "15/02/2015 16:37:37")
+    (tool "Eeschema (2015-01-16 BZR 5376)-product"))
+  (components)
+  (libparts)
+  (libraries)
+  (nets))
